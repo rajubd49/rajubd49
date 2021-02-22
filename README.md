@@ -1,14 +1,6 @@
 ### Hi, I am Raju <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
-  
 
-### <div align="center">Passionate iOS application developer with 7+ years of experience . Basic Flutter and Android application development experience. Professional, flexible, and good at writing SOLID, clean code.</div>  
-  
-
-- 🔭 I’m currently working on SwiftUI  
-  
-
-- 🌱 I’m currently learning Flutter  
-
+### Passionate iOS application developer with 7+ years of experience . Basic Flutter and Android application development experience. Professional, flexible, and good at writing SOLID, clean code. 
 
 ## My Skill Set  
 
@@ -20,14 +12,12 @@
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" />   
 </p>
 
-
 ##### Have Knowledge  
 <p align="left">  
 <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" width="40" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="40" height="40" />  
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />  
 </p>
-
 
 ## Connect with me  
 <div align="center">
@@ -37,9 +27,7 @@
 <a href="https://linkedin.com/in/rajubd49" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>   
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rajubd49&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
