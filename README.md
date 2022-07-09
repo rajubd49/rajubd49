@@ -1,6 +1,6 @@
-### Hi, I am Raju <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+### Hi, I am Md. Harish-Uz-Jaman Mridha Raju 
 
-### Passionate iOS application developer with 7+ years of experience . Basic Flutter and Android application development experience. Professional, flexible, and good at writing SOLID, clean code. 
+### Passionate iOS application developer with 8+ years of experience. Professional, flexible, and good at writing SOLID, clean code. 
 
 ## My Skill Set  
 
