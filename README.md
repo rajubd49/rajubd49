@@ -1,4 +1,4 @@
-### Hi, I am Md. Harish-Uz-Jaman Mridha Raju 
+### Hi, I am Md. Harish-Uz-Jaman Mridha
 
 ### Passionate iOS application developer with 8+ years of experience. Professional, flexible, and good at writing SOLID, clean code. 
 
