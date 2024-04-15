@@ -1,6 +1,6 @@
 ### Hi, I am Md. Harish-Uz-Jaman Mridha
 
-### Passionate iOS application developer with 8+ years of experience. Professional, flexible, and good at writing SOLID, clean code. 
+### Passionate iOS application developer with 10+ years of experience. Professional, flexible, and good at writing SOLID, clean code. 
 
 ## My Skill Set  
 
